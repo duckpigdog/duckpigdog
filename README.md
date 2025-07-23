@@ -7,7 +7,7 @@
 
 ### I'm 雾島风起時
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 一名来自湖北的 2024 届大学生
 - 🌱 Currently working in Hangzhou, China.
 - 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
