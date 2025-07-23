@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 [![粉丝交流群](https://img.shields.io/badge/粉丝交流群-398672624-red.svg "粉丝交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "粉丝交流群")
-[![Wechat](https://img.shields.io/badge/Wechat-XR3327026244-red.svg "Wechat")](https://jq.qq.com/?_wv=1027&k=55kiWBY "Wechat")
+[![WeChat](https://img.shields.io/badge/Wechat-XR3327026244-red.svg "Wechat")](https://jq.qq.com/?_wv=1027&k=55kiWBY "Wechat")
 [![Mail Badge](https://img.shields.io/badge/-suc2es2.clc@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suc2es2.clc@gmail.com)](mailto:suc2es2.clc@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
