@@ -27,6 +27,3 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-### 开源项目
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=duckpigdog&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient](https://camo.githubusercontent.com/5ee3216574cf7938951f61a72f9d1816be9b1dca63e915ac4c092a7de38da461/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6475636b706967646f672673686f775f69636f6e733d747275652673686f773d726576696577732c64697363757373696f6e735f737461727465642c64697363757373696f6e735f616e7377657265642c7072735f6d65726765642c7072735f6d65726765645f70657263656e74616765267468656d653d616d6269656e745f6772616469656e74))
