@@ -30,6 +30,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=duckpigdog)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duckpigdog)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=duckpigdog)
+
+![](https://stats.justsong.cn/api/leetcode?username=duckpigdog&cn=true)
